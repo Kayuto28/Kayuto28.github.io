@@ -48,7 +48,7 @@ typewriter
   .pauseFor(2000)
   .typeString(' Chúc chị <span style="color: #FFBCD9;">Sinh Nhật</span> vui vẻ !<br/><br/>')
   .pauseFor(3000)
-  .typeString(' <span style="color: #8fd3fe;">https://DOB/cute_gift/Nhi_Le.png</span><br/>')
+  .typeString(' <span style="color: #8fd3fe;">https://kayuto28.github.io/cute_gift/Nhi-Le.png</span><br/>')
   .pauseFor(3000)
   .typeString('Người tặng,<br/> <span style="color: #2BDA8E;">Min Min Láo Cá. </span>')
   .pauseFor(1000)
